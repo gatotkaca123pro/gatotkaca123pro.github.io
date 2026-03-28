@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gatotkaca123pro.github.io/sitemap.xml
